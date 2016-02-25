@@ -1,6 +1,6 @@
 {
   "name": "math-float32-nextafter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Returns the next representable single-precision floating-point number after x toward y.",
   "author": {
     "name": "Athan Reines",
